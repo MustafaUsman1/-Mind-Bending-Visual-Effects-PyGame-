@@ -9,12 +9,19 @@ Inspired by demo-scene visuals, math-driven animations, and procedural graphics.
 
 ## ✨ Effects
 
-1. **Matrix Digital Rain** – Falling glyphs with depth-based brightness  
-2. **Plasma Wave** – Multi-sine interference color fields  
-3. **Tunnel Zoom** – Polar-coordinate tunnel illusion  
-4. **Fire Simulation** – Classic cellular-automaton fire  
-5. **DNA Helix** – Animated double-helix using sine & cosine  
-6. **Starfield Warp** – 3D star projection with motion blur
+1. **Matrix Digital Rain** – Falling glyphs with depth-based brightness
+   ![Matrix Rain](Screenshots/MatrixRain.gif)
+2. **Plasma Wave** – Multi-sine interference color fields
+   ![Plasma Wave](Screenshots/PlasmaWave.gif)
+3. **Tunnel Zoom** – Polar-coordinate tunnel illusion
+   ![Tunnel Zoom](Screenshots/TunnelZoom.gif)
+4. **Fire Simulation** – Classic cellular-automaton fire
+   ![Fire](Screenshots/Fire.gif)
+5. **DNA Helix** – Animated double-helix using sine & cosine
+   ![DNA](Screenshots/DNA.gif)
+7. **Starfield Warp** – 3D star projection with motion blur
+   ![Star](Screenshots/Star.gif)
+
 
 ---
 
@@ -26,9 +33,4 @@ Inspired by demo-scene visuals, math-driven animations, and procedural graphics.
 - 3D → 2D perspective projection
 - Frame-rate–independent animation
 
----
-
-## 📸 Preview
-
-> *(Add screenshots or GIFs here)*
 
