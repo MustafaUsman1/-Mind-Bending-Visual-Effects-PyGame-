@@ -10,17 +10,17 @@ Inspired by demo-scene visuals, math-driven animations, and procedural graphics.
 ## ✨ Effects
 
 1. **Matrix Digital Rain** – Falling glyphs with depth-based brightness
-   ![Matrix Rain](Screenshots/MatrixRain.gif)
+   ![Matrix Rain](Screenshots/MatrixRain.png)
 2. **Plasma Wave** – Multi-sine interference color fields
-   ![Plasma Wave](Screenshots/PlasmaWave.gif)
+   ![Plasma Wave](Screenshots/PlasmaWave.png)
 3. **Tunnel Zoom** – Polar-coordinate tunnel illusion
-   ![Tunnel Zoom](Screenshots/TunnelZoom.gif)
+   ![Tunnel Zoom](Screenshots/TunnelZoom.png)
 4. **Fire Simulation** – Classic cellular-automaton fire
-   ![Fire](Screenshots/Fire.gif)
+   ![Fire](Screenshots/Fire.png)
 5. **DNA Helix** – Animated double-helix using sine & cosine
-   ![DNA](Screenshots/DNA.gif)
+   ![DNA](Screenshots/DNA.png)
 7. **Starfield Warp** – 3D star projection with motion blur
-   ![Star](Screenshots/Star.gif)
+   ![Star](Screenshots/Star.png)
 
 
 ---
